@@ -31,7 +31,7 @@ If the user clicks the schedule that the user wants to delete and presses the de
 
 User can view their child’s location and status on the home page. The app displays whether the child is at home or out of his or her home. If at home, it also checks what room he or she is in.
 
-#Roles
+# Roles
 
 |Name|Task|
 |----|----|
