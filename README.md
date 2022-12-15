@@ -30,3 +30,12 @@ If the user clicks the schedule that the user wants to delete and presses the de
 ![func4](https://user-images.githubusercontent.com/117000243/207808786-6e929905-6166-4eeb-85ce-591f25d28cd4.png)
 
 User can view their child’s location and status on the home page. The app displays whether the child is at home or out of his or her home. If at home, it also checks what room he or she is in.
+
+#Roles
+
+|Name|Task|
+|----|----|
+|Kim Donghyun|design and front-end (homealone-client)|
+|Kim Yosub|project design and back-end (homealone - Station)|
+|Lee Youngseo|AI and documentation (homealone-AI)|
+|Cho Seyeon|research and back-end (homealone-API)|
