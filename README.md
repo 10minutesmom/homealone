@@ -13,7 +13,7 @@ Second, Home Alone works as a child’s personal scheduler. A station tells the 
 
 By combining two features, Home Alone can also report to the parents if the kid is laying in bed when the next schedule is imminent. Then the parents can take an action, such as making a call to their kid. In short, this application can relieve parents from their anxiety about their kids being alone at home.
 
-#Functionality
+# Functionality
   1) Schedule Add
 ![func1](https://user-images.githubusercontent.com/117000243/207803139-9fea8d90-4e5e-45d3-bebf-7de86ff7b97b.png)
 If the user selects the schedule page, the user can view schedule data. When pressing the plus button on the top right, the pop-up page appears. Through the pop-page, the user can add the schedule. When adding is done, the message, “The schedule is added.” is shown. If the user omits one of the fields that schedule data requires, the app will return “Please enter all information”.
