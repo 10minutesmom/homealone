@@ -14,6 +14,17 @@ Second, Home Alone works as a child’s personal scheduler. A station tells the 
 By combining two features, Home Alone can also report to the parents if the kid is laying in bed when the next schedule is imminent. Then the parents can take an action, such as making a call to their kid. In short, this application can relieve parents from their anxiety about their kids being alone at home.
 
 #Functionality
-  1)Schedule Add
+  1) Schedule Add
 ![func1](https://user-images.githubusercontent.com/117000243/207803139-9fea8d90-4e5e-45d3-bebf-7de86ff7b97b.png)
+If the user selects the schedule page, the user can view schedule data. When pressing the plus button on the top right, the pop-up page appears. Through the pop-page, the user can add the schedule. When adding is done, the message, “The schedule is added.” is shown. If the user omits one of the fields that schedule data requires, the app will return “Please enter all information”.
 
+  2) Schedule Modify 
+![func2](https://user-images.githubusercontent.com/117000243/207808768-e1d8047e-f01b-436a-bfe6-12a3817a2671.png)
+If the user selects a certain schedule on the schedule page, the user can view a brief description of the schedule. Below the description, there are the modify button and the delete button. When pressing modify button, a pop-up page appears which allows the user to change the schedule information. Likewise, if all fields are not filled, a message "Please enter all the information" appears. Otherwise, the message “Schedule has been modified.” will appear after the schedule is modified. 
+
+  3) Schedule Modify
+![func3](https://user-images.githubusercontent.com/117000243/207808781-2bbd2622-0443-4d28-9e76-8a32b0b890ce.png)
+If the user clicks the schedule that the user wants to delete and presses the delete button, the app will display a pop-up page. If the user presses the cancel button, the app will cancel its deletion. Otherwise, if the user selects the check button, the schedule that the user has selected will be deleted and the app will return a message saying that the schedule has been deleted successfully.
+  4) Schedule Modify
+![func4](https://user-images.githubusercontent.com/117000243/207808786-6e929905-6166-4eeb-85ce-591f25d28cd4.png)
+User can view their child’s location and status on the home page. The app displays whether the child is at home or out of his or her home. If at home, it also checks what room he or she is in.
