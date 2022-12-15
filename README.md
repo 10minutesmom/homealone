@@ -28,4 +28,5 @@ If the user clicks the schedule that the user wants to delete and presses the de
   4) Schedule Modify
 
 ![func4](https://user-images.githubusercontent.com/117000243/207808786-6e929905-6166-4eeb-85ce-591f25d28cd4.png)
+
 User can view their child’s location and status on the home page. The app displays whether the child is at home or out of his or her home. If at home, it also checks what room he or she is in.
