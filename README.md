@@ -15,4 +15,5 @@ By combining two features, Home Alone can also report to the parents if the kid 
 
 #Functionality
   1)Schedule Add
-    ![func1.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/af84b547-12bd-4dd6-81d4-a120b565d04e/func1.png)
+![func1](https://user-images.githubusercontent.com/117000243/207803139-9fea8d90-4e5e-45d3-bebf-7de86ff7b97b.png)
+
