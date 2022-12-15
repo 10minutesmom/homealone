@@ -1,11 +1,18 @@
 # homealone_docu
 Tech blog link : bit.ly/sehomealone
 
-# introduction
-Childcare has been a major issue due to the rapid growth of dual-income families. Home Alone application is willing to solve the problems that arise from this type of family. Home Alone supervises a child alone at home in two terms. 
+# Abstract
+Dual-income families are commonplace nowadays. Within this type of family, parents are not cannot keep an eye on their kid for 24 hours. HomeAlone application is likely to lessen some worries about their child by checking kid’s location at home, reporting his or her current status, and managing their daily schedule. 
+
+# Introduction
+Childcare has been a major issue due to the rapid growth of dual-income families. Home Alone application is willing to solve the problems that arise from this type of family. Home Alone supervises a child alone at home in two terms.
 
 First, Home Alone enables parents to detect the location of the child inside the house in real-time. Previous technologies mostly focused on searching for a target location outside rather than inside. There are two reasons for this. First, indoors was commonly considered to be safer than outdoors. Second, due to privacy issues, companies were reluctant to detect the target inside. Thus, by focusing on the detection of the location and the kid’s current status inside the house, this application is differentiated from current applications on the market. In addition, by adopting robot cleaner, Home Alone minimized the risk of invasion of privacy during the process.
 
 Second, Home Alone works as a child’s personal scheduler. A station tells the kid about an upcoming schedule and alarms children to get ready for the next schedule. This application alarms repeatedly so that he or she can wake up on their own. This will alleviate parents’ worries about their kid being late.
 
 By combining two features, Home Alone can also report to the parents if the kid is laying in bed when the next schedule is imminent. Then the parents can take an action, such as making a call to their kid. In short, this application can relieve parents from their anxiety about their kids being alone at home.
+
+#Functionality
+  1)Schedule Add
+    ![func1.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/af84b547-12bd-4dd6-81d4-a120b565d04e/func1.png)
