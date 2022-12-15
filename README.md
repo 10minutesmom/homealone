@@ -26,5 +26,6 @@ If the user selects a certain schedule on the schedule page, the user can view a
 ![func3](https://user-images.githubusercontent.com/117000243/207808781-2bbd2622-0443-4d28-9e76-8a32b0b890ce.png)
 If the user clicks the schedule that the user wants to delete and presses the delete button, the app will display a pop-up page. If the user presses the cancel button, the app will cancel its deletion. Otherwise, if the user selects the check button, the schedule that the user has selected will be deleted and the app will return a message saying that the schedule has been deleted successfully.
   4) Schedule Modify
+
 ![func4](https://user-images.githubusercontent.com/117000243/207808786-6e929905-6166-4eeb-85ce-591f25d28cd4.png)
 User can view their child’s location and status on the home page. The app displays whether the child is at home or out of his or her home. If at home, it also checks what room he or she is in.
